@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="680521ab-08a5-4697-bfa1-64f9e0e1d7bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contributors.txt" afterPath="$PROJECT_DIR$/contributors.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="680521ab-08a5-4697-bfa1-64f9e0e1d7bf" name="Default" comment="" />
     <ignored path="gitwork.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +26,7 @@
       <file leaf-file-name="contributors.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contributors.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.22689076" vertical-offset="0" max-vertical-offset="595">
+            <state line="10" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.25210086" vertical-offset="0" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
@@ -206,7 +203,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contributors.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.22689076" vertical-offset="0" max-vertical-offset="595">
+        <state line="10" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.25210086" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
